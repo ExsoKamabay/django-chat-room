@@ -2,7 +2,7 @@
 
 URL Demo : [https://wolf98.pythonanywhere.com/](https://wolf98.pythonanywhere.com/)
 
-[Source Code](https://drive.google.com/file/d/1HYU2shjN7qS0BD_ivvAQLUsuYm6l3fH5/view)
+[Source Code Google Drive - 32MB](https://drive.google.com/file/d/1HYU2shjN7qS0BD_ivvAQLUsuYm6l3fH5/view)
 
 ## Dibuat dengan:
 
