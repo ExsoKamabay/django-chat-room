@@ -1,4 +1,4 @@
-# django-chat-room
+# DjRoom 
 
 URL Demo : [https://wolf98.pythonanywhere.com/](https://wolf98.pythonanywhere.com/)
 
