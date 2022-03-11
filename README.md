@@ -1,10 +1,31 @@
 # django-chat-room
 
-masuk ke akun tamu : user:darks - pass:darks
+URL Demo : [https://wolf98.pythonanywhere.com/](https://wolf98.pythonanywhere.com/)
 
-Room:WolfRoom - pass:123
+[Source Code](https://drive.google.com/file/d/1HYU2shjN7qS0BD_ivvAQLUsuYm6l3fH5/view)
 
-[source kode](https://drive.google.com/file/d/1HYU2shjN7qS0BD_ivvAQLUsuYm6l3fH5/view)
+## Dibuat dengan:
 
-URL : [https://wolf98.pythonanywhere.com/](https://wolf98.pythonanywhere.com/)
+- web framework ```Django```
+- database ```sqlite3```
+- server site ```Python```
+- client site ```Brython```
+- ```HTML & CSS```
+
+<hr>
+
+## ```masuk ke akun yang sudah ada / mendaftar buat akun sendiri.```
+
+**```username : darks ```**
+
+**```password : darks```**
+
+## ```masuk ke room / buat room baru.```
+
+**```nama room : WolfRoom```**
+
+**```password : 123```**
+
+
+
 
